@@ -1,2 +1,7 @@
 # Ignore all SQLite database
 db/*.sqlite3
+
+# Ignore mac system files
+.DS_Store
+.ds_store
+.DS_store
